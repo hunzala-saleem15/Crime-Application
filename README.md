@@ -107,20 +107,9 @@ Although this phase focused on data preparation and EDA, future extensions of th
 
 ---
 
-## Team & Roles
-
-- Project Lead / Data Analyst: [Your Name]
-- Data Cleaning & EDA: [Team Member 1]
-- Mobile App Development (Flutter): [Team Member 2]
-- Mentor / Reviewer: [Mentor Name]
-
----
-
 ## References
 
 - Dataset: [Crime Data in Brazil – Kaggle](https://www.kaggle.com/datasets/inquisitivecrow/crime-data-in-brazil)
 - Mapping tools: Google Maps API, OpenStreetMap
 
 ---
-
-Built as part of a public safety and data science initiative for urban crime analysis and awareness.
