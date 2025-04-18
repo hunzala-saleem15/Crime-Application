@@ -107,6 +107,14 @@ Although this phase focused on data preparation and EDA, future extensions of th
 
 ---
 
+## Project Zip File
+
+You can download the project zip file from OneDrive using the following link:
+
+[Download Project.zip from OneDrive](https://drive.google.com/drive/folders/1cwg4dEqHkQOaWzr1WzrBFAjKOpjh2fZB?usp=sharing)
+
+---
+
 ## References
 
 - Dataset: [Crime Data in Brazil – Kaggle](https://www.kaggle.com/datasets/inquisitivecrow/crime-data-in-brazil)
